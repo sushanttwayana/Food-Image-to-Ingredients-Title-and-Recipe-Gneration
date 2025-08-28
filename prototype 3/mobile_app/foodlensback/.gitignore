@@ -1,0 +1,30 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore environment files
+# .env
+# *.env
+
+# Ignore SQLite database
+# db.sqlite3
+
+# Ignore large model files
+# best_ingredient_model_new.pth
+blip_finetuned_title_gen.pth
+# t5_base_recipe_instr.pth
+# t5_small_recipe_best.pth
+
+# Ignore model/data folders
+# blip_processor/
+# media/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore venv folders
+# venv/
+# env/

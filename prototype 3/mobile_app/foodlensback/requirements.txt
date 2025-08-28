@@ -1,0 +1,15 @@
+streamlit
+torch
+numpy
+Pillow
+albumentations
+opencv-python-headless
+transformers
+tqdm
+django
+djangorestframework
+django-cors-headers
+torchvision
+transformers
+sentencepiece
+

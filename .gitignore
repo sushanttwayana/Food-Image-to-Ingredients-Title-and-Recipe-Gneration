@@ -1,0 +1,7 @@
+*.pth
+*.zip
+*.png
+*.pkl
+prototype 2/models
+prototype 2/dataset_lammetized
+prototype 2/dataset_merged_filtered

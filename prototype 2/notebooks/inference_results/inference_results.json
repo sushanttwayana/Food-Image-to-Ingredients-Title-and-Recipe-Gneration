@@ -1,0 +1,21 @@
+[
+  {
+    "image_path": "../dataset/images/train/4/0/4a00a83d62.jpg",
+    "ingredients": [
+      "chicken breast",
+      "onion",
+      "garlic",
+      "tomato",
+      "olive oil",
+      "salt",
+      "pepper",
+      "herbs"
+    ],
+    "recipe": "Preheat oven to 350 degrees.;Place chicken breast in a baking dish.;Season with salt, pepper and herbs.;Bake in the preheated oven for 30 minutes.;Remove chicken from oven and serve hot.",
+    "generation_params": {
+      "num_beams": 4,
+      "temperature": 0.8,
+      "top_p": 0.9
+    }
+  }
+]
